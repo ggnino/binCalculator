@@ -1,3 +1,9 @@
+# My Binary Javascript Calculator
+I built this calculator by using react.\
+It has all the basic functions of a regular calculator, but I gave it a binary mode.\
+In order to enter binary mode, the user must click on the BIN button.
+Once the BIN button has been selected, the user may now perfom mathematical operation with binary numbers.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
